@@ -1,8 +1,0 @@
-﻿*.ipynb_checkpoints
-!data/data.txt
-data/
-*.zip
-model/
-*.doc
-*.docx
-*.rar
